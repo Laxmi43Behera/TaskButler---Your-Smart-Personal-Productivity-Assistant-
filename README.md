@@ -5,7 +5,8 @@ Beyond basic task tracking, TaskButler offers data-driven insights through visua
 
 Built with Python’s NLTK for text processing and Pandas for task management, TaskButler is lightweight, fast, and entirely CLI-based—no bloated GUIs. Whether you need tough love or just a smarter way to prioritize, TaskButler turns task management into an engaging, efficient experience.  
 
-Key Features
+Key Features:
+
 ✔️ smart Prioritization– NLP-driven scoring for tasks  
 ✔️ Productivity Charts – Visualize task urgency and priority  
 ✔️ Roast Mode – Humorous nudges to stop procrastinating  
