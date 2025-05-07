@@ -14,4 +14,4 @@ Key Features:
 ✔️ Export Options – Save tasks to CSV or text files  
 ✔️ CLI-First– Fast, keyboard-driven workflow  
 
-Ideal for developers, students, or anyone who wants a no-nonsense, data-backed approach to productivity—with a side of sarcasm.
+Ideal for developers, students, or anyone who wants a no-nonsense, data-backed approach to productivity—with a side of sarcasm
